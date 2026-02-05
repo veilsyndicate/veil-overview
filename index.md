@@ -14,7 +14,7 @@ I am a solo founder and engineer who built Veil end-to-end as a fully working sy
 
 ## Live system
 - Telegram bot:https://t.me/VeilDropBot
-- WebApp: veil-drop-bot-2.vercel.app
+- WebApp:veil-drop-bot-2.vercel.app
 - Android demo / Loom: https://www.loom.com/share/c65acb0477a7427f9eb747036ccbcdce
 
 ## Tech stack
